@@ -25,7 +25,7 @@ This will create an environment named `uarray` which you can use for development
 `unumpy` and all development dependencies can be installed via:
 
 ```
-pip install -e ".[all]"
+pip install -e .
 ```
 
 ## Testing
